@@ -1,0 +1,6 @@
+C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\bin\x64\Release\GazeFlowAPI.dll
+C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\bin\x64\Release\GazeFlowAPI.pdb
+C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\x64\Release\GazeFlowAPI_dll.csproj.CoreCompileInputs.cache
+C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\x64\Release\GazeFlowAPI.dll
+C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\x64\Release\GazeFlowAPI.pdb
+C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\x64\Release\GazeFlowAPI_dll.csprojAssemblyReference.cache
