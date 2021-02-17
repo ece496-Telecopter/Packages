@@ -1,6 +1,0 @@
-C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\bin\Debug\GazeFlowAPI.dll
-C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\bin\Debug\GazeFlowAPI.pdb
-C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\Debug\GazeFlowAPI_dll.csprojAssemblyReference.cache
-C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\Debug\GazeFlowAPI_dll.csproj.CoreCompileInputs.cache
-C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\Debug\GazeFlowAPI.dll
-C:\Users\Sahar Abdalla\source\repos\GazeFlowAPI\GazeFlowAPI\obj\Debug\GazeFlowAPI.pdb
