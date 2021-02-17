@@ -1,0 +1,7 @@
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\bin\Debug\GazeFlowAPI.cs
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\bin\Debug\GazePointer.dll
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\bin\Debug\GazePointer.pdb
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\obj\Debug\GazePointer.csprojAssemblyReference.cache
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\obj\Debug\GazePointer.csproj.CoreCompileInputs.cache
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\obj\Debug\GazePointer.dll
+C:\Users\Sahar Abdalla\source\repos\GazePointer\GazePointer\obj\Debug\GazePointer.pdb
